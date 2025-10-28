@@ -4,7 +4,7 @@
   <div class="wrap">
     <header>
       <div class="intro">
-        <h1>I am a fullstack developer</h1>
+        <h1>Fullstack Developer</h1>
         <p class="lead">Specialized in web and mobile applications with React, React Native, and .NET.</p>
         <div class="badges">
           <span class="badge">⭐ Open to work</span>
