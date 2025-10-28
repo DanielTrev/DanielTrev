@@ -18,29 +18,17 @@
       <section class="card">
         <h3>📚 Tecnologías</h3>
         <div class="tech-grid" style="margin-top:12px">
-          <!-- Icons loaded from jsDelivr simple-icons. Replace or keep. -->
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"><span>React</span></div>
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native"><span>React Native</span></div>
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo"><span>Expo</span></div>
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"><span>C#</span></div>
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"><span>SQL</span></div>
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"><span>MySQL</span></div>
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"><span>TypeScript</span></div>
-          <div class="tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><span>Java</span></div>
+         
         </div>
 
         <div style="margin-top:18px">
-          <h4>📈 Uso de tecnologías (ejemplo)</h4>
-          <canvas id="skillsChart" style="width:100%;height:220px;margin-top:8px"></canvas>
+          <h4>📈 Uso de tecnologías</h4>
+          
         </div>
 
         <div style="margin-top:18px">
           <h4>🔥 Proyectos recientes</h4>
-          <ul style="color:var(--muted);margin-top:8px">
-            <li>App móvil de entregas — React Native + Expo</li>
-            <li>API para inventarios — .NET 7 + Entity Framework</li>
-            <li>Dashboard analítico — React + TypeScript + Chart.js</li>
-          </ul>
+     
         </div>
       </section>
 
