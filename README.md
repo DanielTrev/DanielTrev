@@ -49,19 +49,11 @@
 
         <div class="card" style="margin-top:12px">
           <h4>📊 Pequeñas métricas</h4>
-          <div style="display:flex;gap:8px;flex-direction:column">
-            <div style="display:flex;justify-content:space-between"><small class="small">Repos activos</small><strong>12</strong></div>
-            <div style="display:flex;justify-content:space-between"><small class="small">Contribuciones</small><strong>1.2k</strong></div>
-            <div style="display:flex;justify-content:space-between"><small class="small">Followers</small><strong>480</strong></div>
-          </div>
+       
         </div>
       </aside>
     </main>
 
-    <footer class="wrap-footer" style="margin-top:18px">
-      <div class="small">Generado: Plantilla HTML</div>
-      <div class="small">Personalízala y sube a GitHub Pages o úsala como archivo en tu perfil.</div>
-    </footer>
   </div>
 
   <!-- scripts -->
