@@ -56,34 +56,5 @@
 
   </div>
 
-  <!-- scripts -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-  <script>
-    // Datos de ejemplo para la gráfica de habilidades (modifica a tu gusto)
-    const ctx = document.getElementById('skillsChart');
-    new Chart(ctx, {
-      type: 'doughnut',
-      data: {
-        labels: ['React','React Native','C#','.NET','SQL/MySQL','TypeScript','Java','Expo'],
-        datasets: [{
-          data: [18,12,14,13,12,10,11,10],
-          // Chart.js auto picks colors
-        }]
-      },
-      options: {
-        plugins:{legend:{position:'bottom',labels:{color:'#cbd5e1'}}},
-        maintainAspectRatio:false
-      }
-    });
-
-    // Fácil reemplazo del GIF: arrastra la URL de la GIF que quieras y pégala en el src
-    // Ejemplo de cómo cargar desde un CDN externo o imagen en tu repo
-    // document.getElementById('evaGif').src = 'URL_DE_TU_GIF_DE_EVA';
-
-    // Pequeña mejora: lazy load images fuera de viewport
-    if('loading' in HTMLImageElement.prototype){
-      document.querySelectorAll('img[loading]').forEach(img=>img.loading='lazy');
-    }
-  </script>
 </body>
 </html>
