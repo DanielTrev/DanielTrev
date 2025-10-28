@@ -9,7 +9,7 @@
         <div class="badges">
           <span class="badge">⭐ Open to work</span>
           <span class="badge">📍 Monterrey, México</span>
-          <span class="badge">💼 Abierto a colaboraciones</span>
+          <span class="badge">💼 open to collaborations</span>
         </div>
       </div>
     </header>
