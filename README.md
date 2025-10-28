@@ -3,10 +3,6 @@
 <body>
   <div class="wrap">
     <header>
-      <div class="avatar">
-        <!-- Replace with your avatar URL -->
-        <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Avatar">
-      </div>
       <div class="intro">
         <h1>Tu Nombre — Desarrollador Fullstack</h1>
         <p class="lead">Especializado en aplicaciones web y móviles con React, React Native y .NET. Apasionado por código limpio, buenas UX y performance.</p>
