@@ -4,8 +4,8 @@
   <div class="wrap">
     <header>
       <div class="intro">
-        <h1>Soy Desarrollador Fullstack</h1>
-        <p class="lead">Especializado en aplicaciones web y móviles con React, React Native y .NET.</p>
+        <h1>I am a fullstack developer</h1>
+        <p class="lead">Specialized in web and mobile applications with React, React Native, and .NET.</p>
         <div class="badges">
           <span class="badge">⭐ Open to work</span>
           <span class="badge">📍 Monterrey, México</span>
