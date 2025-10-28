@@ -50,7 +50,3 @@
 
 
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
